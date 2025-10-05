@@ -2,6 +2,7 @@
 ### Radio-Controlled car with dedicated Qt Application
 ### My prototype is based on chasis of Fiat Grande Punto.
 ### Model has been created by me using Blender 3D and printed on Ender 3.
+### Don't be scared of how it looks like in the photos, it's just a prototype!
 ## Materials
 ### PETG- body
 ### PLA- chassis, mechanical elements, battery socket, lamps, wheels/rims
