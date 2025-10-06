@@ -8,6 +8,7 @@
 ### PLA- chassis, mechanical elements, battery socket, lamps, wheels/rims
 
 ## Overview:
+## V0.9
 - For now car has functioning steering (SG90), Drivetraing (DC Motor), lights (LEDs). If you need direct info about used pins, check "Schematics.png" file. To details about each element of set, so Qt application and STM Baremetal code, check poprer folder in this repo.
 - Communication is monodirectonal, it's only commputer, which sends data and dosesn't receive anything back.
 - To communitacte, car uses ESP01 set to AccessPoint, with TCP server set on it
