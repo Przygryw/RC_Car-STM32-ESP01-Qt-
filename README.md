@@ -3,9 +3,19 @@
 ### My prototype is based on chasis of Fiat Grande Punto.
 ### Model has been created by me using Blender 3D and printed on Ender 3.
 ### Don't be scared of how it looks like in the photos, it's just a prototype!
+
+## Used manuals:
+- [SG90 servo manual](https://www.alldatasheet.pl/datasheet-pdf/download/1572383/ETC/SG90.html)
+- [L293D manual](https://www.ti.com/lit/ds/symlink/l293d.pdf?ts=1759741409292&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FL293D)
+- [STM32F103C8T6 reference manual](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.st.com/resource/en/reference_manual/rm0008-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf&ved=2ahUKEwif4Iuqp5CQAxX0A9sEHY0IHHEQFnoECBcQAQ&usg=AOvVaw0gKEwqSurS9WnLC3KmOqn8)
+- [ESP01 Manual](https://academy.cba.mit.edu/classes/networking_communications/ESP8266/esp01.pdf)
+- [AT Commands](https://docs.espressif.com/projects/esp-at/en/latest/esp32/AT_Command_Set/Basic_AT_Commands.html)
+
+
 ## Materials
 ### PETG- body
 ### PLA- chassis, mechanical elements, battery socket, lamps, wheels/rims
+
 
 ## Overview:
 ## V0.9
