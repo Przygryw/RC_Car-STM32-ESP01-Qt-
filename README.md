@@ -11,6 +11,13 @@
 - [ESP01 Manual](https://academy.cba.mit.edu/classes/networking_communications/ESP8266/esp01.pdf)
 - [AT Commands](https://docs.espressif.com/projects/esp-at/en/latest/esp32/AT_Command_Set/Basic_AT_Commands.html)
 
+## Major ToDos!
+|Function|Done?|Update|
+---------|-----|-------
+|Error Checking| | |
+|Bidirectional communication| | |
+|Code optimizing| | |
+
 
 ## Materials
 ### PETG- body
